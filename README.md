@@ -5,7 +5,7 @@
 This project demonstrates agile planning using GitHub Projects Kanban board,
 implementing a RESTful Accounts microservice with CI/CD pipeline.
 
-[![Build Status](https://github.com/YOUR_USERNAME/lab-agile-planning/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/YOUR_USERNAME/lab-agile-planning/actions/workflows/ci-build.yaml)
+[![Build Status](https://github.com/nandanisah-codes/lab-agile-planning/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/nandanisah-codes/lab-agile-planning/actions/workflows/ci-build.yaml)
 
 ## Sprints
 - Sprint 1: CRUD operations for accounts
